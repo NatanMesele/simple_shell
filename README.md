@@ -84,4 +84,4 @@ total 108**
 $ Eth5 
 * ./hsh: No such file or directory
 ### Authors
-Natan Mesele AND Lidiya Tsegay
+Natan Mesele AND Lidya Tsegay
